@@ -1,0 +1,39 @@
+body{
+
+}
+
+header{
+  width: 1356px;
+  height: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background: #3333;
+  display: flex;
+}
+
+.schoolname{
+  width: 452px;
+  height: 100px;
+  display: flex;
+}
+
+.schoolname > .name{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+
+.tb{
+  width: 452px;
+  height: 100px;
+  display: flex;
+  line-height: 150px;
+
+}
+.menu{
+  width: 452px;
+  height: 100px;
+  display: flex;
+
+}
+
